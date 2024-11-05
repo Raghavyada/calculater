@@ -1,2 +1,2 @@
 # calculater
-I have made a calculater uesing html,css and js.wich is fully responcev with all screen.In wich,if user can
+I have made a fully functional calculator app using HTML,CSS & JS and will also use try & catch method if the user can input wrong value.
